@@ -22,3 +22,4 @@ All the code for the book is in the `/code` folder. Tested with `atom-typescript
 
 ### TypeScript Compiler Docs
 Thanks to the TypeScript team for providing much of the docs: https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview that are used to write the compiler story.
+
